@@ -1,0 +1,5 @@
+2019-12-25 15:10:28.647  INFO 5124 --- [main] c.e.demo.DockerDemoApplicationTests      : Starting DockerDemoApplicationTests on 202-JS-A000334 with PID 5124 (started by zhangzhizhong in E:\project-code\wuhan\docker-demo)
+2019-12-25 15:10:28.648  INFO 5124 --- [main] c.e.demo.DockerDemoApplicationTests      : No active profile set, falling back to default profiles: default
+2019-12-25 15:10:30.025  INFO 5124 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-25 15:10:30.327  INFO 5124 --- [main] c.e.demo.DockerDemoApplicationTests      : Started DockerDemoApplicationTests in 2.019 seconds (JVM running for 3.87)
+2019-12-25 15:10:30.738  INFO 5124 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
