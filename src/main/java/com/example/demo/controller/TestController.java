@@ -23,7 +23,7 @@ public class TestController {
         LocalDateTime localDateTime = LocalDateTime.now();
         logger.info(localDateTime + ":访问");
         // 初始化柜子
-        return "ok，DOCKER-test3";
+        return "ok，DOCKER-测试4";
     }
 }
 
